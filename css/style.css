@@ -877,7 +877,7 @@ footer .right-text-content ul li a:hover {
   }
 
   #berita .main-row {
-    transform: translate3d(-714px, 0px, 0px);
+    margin-top: 60px;
   }
 
   #informasi {

@@ -206,7 +206,7 @@
 
       <div class="guru-1 owl-carousel owl-theme">
 
-        <div class="card"><img src="./images/guru-1.jpg"/>
+        <div class="card"><img src="./images/guru-2.jpg"/>
           <div class="info text-center">
             <h1>Dr.Suradi, M.pd</h1>
             <p>Kepala Sekolah</p>
